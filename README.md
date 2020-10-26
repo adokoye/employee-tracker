@@ -53,7 +53,7 @@
   The project is open-source
 
   ## Walkthrough
-  [Walkthrough Video](https://youtu.be/IeB5M2VBy8c)
+  [Walkthrough Video]()
   
   ## Tests:
 
