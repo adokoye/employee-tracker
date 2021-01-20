@@ -66,6 +66,6 @@
   - [Github Profile](https://github.com/adokoye)
 
   If you have any additional questions, feel free to email them to me:
-  - [Email](adaobicynthia99@gmail.com)
+  - [Email](adaobi.okoye@ttuhsc.edu)
   
 # employee-tracker
