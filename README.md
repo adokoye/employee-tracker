@@ -1,8 +1,7 @@
 # Employee Tracker
   
   ## Description:
-  This is a content management system that can enable anyone to navigate, view and interact with information stored in a database.  This is created specifically to
-  manage employee databases by allowing views of all employees, departments, roles, salaries and managers. Data can also be added and manipulated.
+  This is a content management system that allows a company to navigate, view and manage their employee database. It enables them to view designated departments, roles, salaries and managers of all employees.
   
 
   # Table of Contents
@@ -19,8 +18,7 @@
 
   ## Installation:
 
-  Clone or download the repository to your machine. Initiate with ```npm i```
-  Run the program with ```node server```
+  First clone or download the repository to your machine, initiate with ```npm i``` and then run the program with ```node server```
 
 
 ## Technologies
@@ -30,13 +28,13 @@
   - MYSQL
   
   ## Usage:
-  Use this to navigate, view and interact with employee databases.
+  Use this to navigate, view and manage a company's employee database.
  
 
 
   ## Credits:
 
-  Made by Adaobi C Okoye
+  Curated by Adaobi C Okoye
 
 
   ## License:
@@ -68,4 +66,3 @@
   If you have any additional questions, feel free to email them to me:
   - [Email](adaobi.okoye@ttuhsc.edu)
   
-# employee-tracker
